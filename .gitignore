@@ -1,3 +1,5 @@
 .gradle
 .idea
 build/reports/tests
+src/main/resources/application-oauth.properties
+
