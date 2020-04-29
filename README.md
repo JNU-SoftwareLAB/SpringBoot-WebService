@@ -17,7 +17,7 @@
 해당 Repository를 각자 Fork한뒤 자신의 프로젝트를 각자의 Repository에서 개발후 PART마다 해당 Repository로 PR을 날리도록 한다.
 
 참여자 : 
-김상엽 이호진 유재일
+김상엽 이호진 유재일 조혜빈
 
 clone 방법 :
 git clone -b (name) --single-branch (github 주소)
